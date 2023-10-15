@@ -14,7 +14,7 @@ This repository contains the source code and files for a recipe website. The web
 
 ## Preview
 ![Screenshot 2023-10-11 112108](https://github.com/harshkanoje/Recipe_Website/assets/129186823/5f1126fa-d818-4742-a3e8-841899b941a7)
-
+Website - https://onlypans.netlify.app/#
 
 
 
